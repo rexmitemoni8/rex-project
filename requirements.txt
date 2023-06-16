@@ -1,0 +1,2 @@
+Download XAMPP
+TO INSTALL THE DATABASE FILE 'database.wmb' file
